@@ -1,4 +1,4 @@
-# EchoScript — System Prompt
+# EchoScript - System Prompt
 An AI-powered multilingual text-to-speech assistant.
 
 Features:
